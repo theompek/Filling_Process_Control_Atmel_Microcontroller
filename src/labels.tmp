@@ -1,0 +1,39 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega16</DEVICE>
+ <WORKING_DIR>C:\Users\ALKATRAZ\Desktop\Silo</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\ALKATRAZ\Desktop\Silo\Silo.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m16def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\ALKATRAZ\Desktop\Silo\Silo.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\ALKATRAZ\Desktop\Silo\Silo.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\ALKATRAZ\Desktop\Silo\Silo.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <reset><FILE>C:\Users\ALKATRAZ\Desktop\Silo\Silo.asm</FILE><LINE>58</LINE></reset>
+  <ADC_ISR><FILE>C:\Users\ALKATRAZ\Desktop\Silo\Silo.asm</FILE><LINE>155</LINE></ADC_ISR>
+  <Table><FILE>C:\Users\ALKATRAZ\Desktop\Silo\Silo.asm</FILE><LINE>55</LINE></Table>
+  <startCond><FILE>C:\Users\ALKATRAZ\Desktop\Silo\Silo.asm</FILE><LINE>86</LINE></startCond>
+  <alarm><FILE>C:\Users\ALKATRAZ\Desktop\Silo\Silo.asm</FILE><LINE>132</LINE></alarm>
+  <delayTimer7sec><FILE>C:\Users\ALKATRAZ\Desktop\Silo\Silo.asm</FILE><LINE>261</LINE></delayTimer7sec>
+  <loop><FILE>C:\Users\ALKATRAZ\Desktop\Silo\Silo.asm</FILE><LINE>109</LINE></loop>
+  <subloop><FILE>C:\Users\ALKATRAZ\Desktop\Silo\Silo.asm</FILE><LINE>116</LINE></subloop>
+  <stop><FILE>C:\Users\ALKATRAZ\Desktop\Silo\Silo.asm</FILE><LINE>149</LINE></stop>
+  <wait><FILE>C:\Users\ALKATRAZ\Desktop\Silo\Silo.asm</FILE><LINE>137</LINE></wait>
+  <blink><FILE>C:\Users\ALKATRAZ\Desktop\Silo\Silo.asm</FILE><LINE>141</LINE></blink>
+  <delayTimer1sec><FILE>C:\Users\ALKATRAZ\Desktop\Silo\Silo.asm</FILE><LINE>239</LINE></delayTimer1sec>
+  <setNextADC><FILE>C:\Users\ALKATRAZ\Desktop\Silo\Silo.asm</FILE><LINE>221</LINE></setNextADC>
+  <setFlag><FILE>C:\Users\ALKATRAZ\Desktop\Silo\Silo.asm</FILE><LINE>197</LINE></setFlag>
+  <waitTimer1><FILE>C:\Users\ALKATRAZ\Desktop\Silo\Silo.asm</FILE><LINE>249</LINE></waitTimer1>
+  <waitTimer7><FILE>C:\Users\ALKATRAZ\Desktop\Silo\Silo.asm</FILE><LINE>271</LINE></waitTimer7>
+ </LABELS>
+</ASSEMBLER_INFO>
